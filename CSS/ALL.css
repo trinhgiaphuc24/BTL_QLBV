@@ -121,6 +121,9 @@ div.ele1 a {
 div.flex1 > input {
   width: 15rem;
 }
+.icon > div:last-child {
+  margin-right: 20px;
+}
 .icon a {
   border-radius: 3px;
   text-align: center;
@@ -239,6 +242,7 @@ div.flex1 > input {
   width: 18%;
   border-right: 1.5px solid silver;
   background-color: white;
+  height: 100vh;
 }
 .right {
   top: 50px;

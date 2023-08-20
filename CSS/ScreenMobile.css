@@ -16,14 +16,16 @@ body {
 }
 /* header */
 .flex1 {
-  justify-content: flex-start;
   padding: 0 0.1rem;
+}
+.icon > div:last-child {
+  margin-right: 0;
 }
 .top-nav-search {
   margin-left: 0;
 }
 .img1 {
-  margin: 0.3rem 0 0 0.3rem;
+  margin: 0.3rem 0.3rem 0 0.3rem;
   width: 35px;
   height: 2rem;
 }
