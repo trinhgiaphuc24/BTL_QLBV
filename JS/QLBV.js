@@ -61,7 +61,7 @@ $(function () {
 
 //Room
 function Room() {
-  fetch("../JSON/Room.json")
+  fetch("./JSON/Room.json")
     .then((res) => res.json())
     .then((data) => {
       let h = "";
@@ -85,7 +85,7 @@ function Room() {
 
 //Departments
 function Departments() {
-  fetch("../JSON/Departments.json")
+  fetch("./JSON/Departments.json")
     .then((res) => res.json())
     .then((data) => {
       let h = "";
@@ -111,7 +111,7 @@ function Departments() {
 
 //Doctors
 function Doctors() {
-  fetch("../JSON/Doctors.json")
+  fetch("./JSON/Doctors.json")
     .then((res) => res.json())
     .then((data) => {
       let h = "";
@@ -159,7 +159,7 @@ function Doctors() {
 
 //List_Apm
 function List_Apm() {
-  fetch("../JSON/List_Apm.json")
+  fetch("./JSON/List_Apm.json")
     .then((res) => res.json())
     .then((data) => {
       let h = "";
@@ -191,7 +191,7 @@ function List_Apm() {
 
 //Patients
 function Patients() {
-  fetch("../JSON/Patients.json")
+  fetch("./JSON/Patients.json")
     .then((res) => res.json())
     .then((data) => {
       let h = "";
@@ -224,7 +224,7 @@ function Patients() {
 
 //Staff
 function Staff() {
-  fetch("../JSON/Staff.json")
+  fetch("./JSON/Staff.json")
     .then((res) => res.json())
     .then((data) => {
       let h = "";
