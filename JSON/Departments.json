@@ -1,0 +1,109 @@
+[{
+    "id": 1,
+    "name": "Chuẩn đoán hình ảnh",
+    "href": "1.1.html",
+    "src1": "https://medlatec.vn/media/418/catalog/specialty13-1.png?size=72",
+    "src2": "https://medlatec.vn/media/156/catalog/service6-2.png?size=72"
+},{
+    "id": 2,
+    "name": "Chuyên khoa nội",
+    "href": "1.2.html",
+    "src1": "https://medlatec.vn/media/466/catalog/specialty1-1-2.png?size=72",
+    "src2": "https://medlatec.vn/media/464/catalog/speciality1-2-3.png?size=72"
+},{
+    "id": 3,
+    "name": "Ung bưới",
+    "href": "1.3.html",
+    "src1": "https://medlatec.vn/media/258/catalog/specialty2-1.png?size=72",
+    "src2": "https://medlatec.vn/media/134/catalog/speciality2-2.png?size=72"
+},{
+    "id": 4,
+    "name": "Sản khoa",
+    "href": "1.4.html",
+    "src1": "https://medlatec.vn/media/366/catalog/specialty4-1.png?size=72",
+    "src2": "https://medlatec.vn/media/138/catalog/specialty4-2.png?size=72"
+},{
+    "id": 5,
+    "name": "Xét nghiệm",
+    "href": "1.5.html",
+    "src1": "https://medlatec.vn/media/472/catalog/specialty5-1-1.png?size=72",
+    "src2": "https://medlatec.vn/media/470/catalog/service2-2-1.png?size=72"
+},{
+    "id": 6,
+    "name": "Khoa ngoại",
+    "href": "1.6.html",
+    "src1": "https://medlatec.vn/media/479/catalog/specialty6-1-1.png?size=72",
+    "src2": "https://medlatec.vn/media/477/catalog/specialty6-2-1.png?size=72"
+},{
+    "id": 7,
+    "name": "Tiêu hóa",
+    "href": "javascript:;",
+    "src1": "https://medlatec.vn/media/369/catalog/specialty7-1.png?size=72",
+    "src2": "https://medlatec.vn/media/144/catalog/specialty7-2.png?size=72"
+},{
+    "id": 8,
+    "name": "Nội tiết",
+    "href": "javascript:;",
+    "src1": "https://medlatec.vn/media/487/catalog/specialty8-1-2.png?size=72",
+    "src2": "https://medlatec.vn/media/485/catalog/specialty8-2-2.png?size=72"
+},{
+    "id": 9,
+    "name": "Tim mạch",
+    "href": "javascript:;",
+    "src1": "https://medlatec.vn/media/372/catalog/specialty10-1.png?size=72",
+    "src2": "https://medlatec.vn/media/150/catalog/specialty10-2.png?size=72"
+},{
+    "id": 10,
+    "name": "Nam khoa",
+    "href": "javascript:;",
+    "src1": "https://medlatec.vn/media/491/catalog/specialty11-1-1.png?size=72",
+    "src2": "https://medlatec.vn/media/489/catalog/specialty11-2-1.png?size=72"
+},{
+    "id": 11,
+    "name": "Cơ xương khớp",
+    "href": "javascript:;",
+    "src1": "https://medlatec.vn/media/257/catalog/specialty14-1.png?size=72",
+    "src2": "https://medlatec.vn/media/158/catalog/specialty14-2.png?size=72"
+},{
+    "id": 12,
+    "name": "Truyền nhiễm",
+    "href": "javascript:;",
+    "src1": "https://medlatec.vn/media/495/catalog/specialty17-1-1.png?size=72",
+    "src2": "https://medlatec.vn/media/493/catalog/specialty17-2-1.png?size=72"
+},{
+    "id": 13,
+    "name": "Thần kinh",
+    "href": "javascript:;",
+    "src1": "https://medlatec.vn/media/503/catalog/specialty16-1-2.png?size=72",
+    "src2": "https://medlatec.vn/media/501/catalog/specialty16-2-2.png?size=72"
+},{
+    "id": 14,
+    "name": "Nhi khoa",
+    "href": "javascript:;",
+    "src1": "https://medlatec.vn/media/365/catalog/specialty3-1.png?size=72",
+    "src2": "https://medlatec.vn/media/136/catalog/speciality3-2.png?size=72"
+},{
+    "id": 15,
+    "name": "Mắt",
+    "href": "javascript:;",
+    "src1": "https://medlatec.vn/media/508/catalog/specialty9-1-1.png?size=72",
+    "src2": "https://medlatec.vn/media/506/catalog/specialty9-2-1.png?size=72"
+},{
+    "id": 16,
+    "name": "Tai mũi họng",
+    "href": "javascript:;",
+    "src1": "https://medlatec.vn/media/512/catalog/specialty12-1-1.png?size=72",
+    "src2": "https://medlatec.vn/media/510/catalog/specialty12-2-1.png?size=72"
+},{
+    "id": 17,
+    "name": "Da liễu",
+    "href": "javascript:;",
+    "src1": "https://medlatec.vn/media/375/catalog/specialty15-1.png?size=72",
+    "src2": "https://medlatec.vn/media/160/catalog/specialty15-2.png?size=72"
+},{
+    "id": 18,
+    "name": "Răng hàm mặt",
+    "href": "javascript:;",
+    "src1": "https://medlatec.vn/media/378/catalog/specialty18-1.png?size=72",
+    "src2": "https://medlatec.vn/media/166/catalog/specialty18-2.png?size=72"
+}]

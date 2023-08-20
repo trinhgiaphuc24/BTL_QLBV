@@ -1,0 +1,140 @@
+/* Appoinment */
+.box-appoinment {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-bottom: 25px;
+  background-color: white;
+  border: 1.5px solid silver;
+  padding: 0.8rem;
+  border-radius: 0.8rem;
+}
+.box-appoinment-main {
+  position: relative;
+  width: 100%;
+}
+.box-appoinment-header {
+  color: #444;
+  padding: 0.8rem 0.8rem 0 0.8rem;
+  position: relative;
+  box-shadow: none;
+}
+.box-appoinment-header h2 {
+  color: #2e37a4;
+  text-align: center;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  position: relative;
+  margin: 0;
+}
+.appoinment-body {
+  color: #444;
+  padding: 0.8rem;
+  display: flex;
+  flex-wrap: wrap;
+  font-weight: 400;
+}
+.appoinment-body-1 {
+  width: 42%;
+  flex: 0 0 auto;
+}
+.appoinment-body-2 {
+  width: 33%;
+  flex: 0 0 auto;
+}
+.appoinment-body-3 {
+  width: 15%;
+  flex: 0 0 auto;
+}
+.appoinment-body-4 {
+  width: 47.3%;
+  flex: 0 0 auto;
+}
+.appoinment-body-5 {
+  width: 29.5%;
+  flex: 0 0 auto;
+}
+.appoinment-body-6 {
+  width: 98%;
+  flex: 0 0 auto;
+}
+.appoinment-body-7 {
+  width: 100%;
+  flex: 0 0 auto;
+  text-align: right;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #2e37a4;
+  border-color: transparent;
+}
+
+.appoinment-body-7 .btn-2 {
+  min-width: 131px;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 12px;
+  padding: 10px 15px;
+}
+
+.form-group {
+  position: relative;
+  margin: 20px 1.5% 0 0.8rem;
+}
+.form-group label {
+  font-size: 15px;
+  color: #2e37a4;
+  font-weight: bold;
+  margin-bottom: 0;
+  padding: 0px 5px;
+  z-index: 99;
+}
+.gen-label {
+  color: #333448;
+  font-size: 15px;
+  font-weight: 500;
+  display: block;
+  color: #2e37a4;
+  font-weight: bold;
+  margin: 0;
+}
+
+.form-control-1 {
+  min-height: 35px;
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  appearance: none;
+  border-radius: 0.375rem;
+  background: rgba(135, 143, 229, 0.05);
+}
+
+.form-check-inline {
+  display: inline-block;
+}
+.form-check-inline-gen {
+  margin: .5rem 2rem 0 0;
+}
+.form-check-label {
+  font-weight: 500;
+  font-size: 14px;
+}
+.form-check-input {
+  width: 12px;
+  height: 12px;
+  margin-right: 5px;
+  vertical-align: middle;
+  margin-top: 0;
+}
+.form-check-input[type="radio"] {
+  border-radius: 50%;
+}
+
+

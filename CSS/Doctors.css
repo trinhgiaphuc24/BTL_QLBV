@@ -1,0 +1,116 @@
+/* LIST DOCTORS */
+.list-doctors {
+  width: 100%;
+  margin-bottom: 25px;
+  background-color: white;
+  border: 1.5px solid silver;
+  padding: 0.8rem;
+  border-radius: 0.8rem;
+}
+
+.list-doctors-main {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 1490px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.list-doctors-title {
+  margin-bottom: 10px;
+}
+
+.list-doctors-title h2 {
+  color: #2e37a4;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding-bottom: 0.8rem;
+  margin-top: 10px;
+}
+
+.doctor-table-blk {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.doctor-search-blk {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.doctor-search-blk .top-nav-search {
+  margin-left: 15px;
+}
+
+.add-group {
+  display: flex;
+  padding: 0 10px 0 15px;
+}
+
+.add-group .btn-primary {
+  background: rgba(46, 55, 164, 0.05);
+  border-radius: 12px;
+  color: #2e37a4;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 8px;
+}
+
+.list-doctors-items {
+  display: flex;
+  flex-wrap: wrap;
+  height: auto !important;
+}
+
+.list-doctors-item {
+  width: 23.5%;
+  padding: 15px;
+  background-color: #f2f8ff;
+  border: 1.5px solid silver;
+  border-radius: 0.8rem;
+  flex: 0 0 auto;
+  margin-right: 2%;
+  margin-bottom: 25px;
+}
+
+div.list-doctors-item:nth-child(4) {
+  margin-right: 0;
+}
+
+div.list-doctors-item:nth-child(8) {
+  margin-right: 0;
+}
+
+
+.text-center {
+  text-align: center !important;
+}
+
+.rounded-circle {
+  left: 0;
+  margin-top: -2px;
+  right: 0;
+  width: 40%;
+  margin: 0 auto;
+  border: 3px solid #2e37a4;
+  border-radius: 50% !important;
+}
+
+.list-unstyled {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.list-unstyled li a {
+    color: #777;
+    padding: 5px 10px;
+}
+
+
+

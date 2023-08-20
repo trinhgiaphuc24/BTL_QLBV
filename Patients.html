@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.css"
+        crossorigin="anonymous" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="keywords" content="html, html5, web, css, js">
+    <meta name="description" content="GPHUCDEPZAI">
+    <meta http-equiv="refresh" content="1800">
+    <link href="./IMG/logohoss1.png" rel="shortcut icon">
+    <title>Bệnh nhân - QLBV</title>
+
+    <link rel="stylesheet" href="./CSS/ALL.css">
+    <link rel="stylesheet" href="./CSS/List_Apm.css">
+    <script src="wow.min.js"></script>
+    <script src="./JS/QLBV.js"></script>
+    <link rel="stylesheet" href="./CSS/ScreenMobile.css" media="screen and (max-width: 376px)">
+</head>
+
+<body>
+    <a href="javascript:;" style="display: none;" class="gototop" id="gotoTop"><i class="fa-solid fa-arrow-up"></i></a>
+    <a href="javascript:;" class="openmenu" id="openMenu"><i class="fa-solid fa-bars"></i></a>
+    <a href="javascript:;" class="closemenu" id="closeMenu"><i class="fa-solid fa-xmark"></i></a>
+    <header class="flex1">
+        <div class="flex1">
+            <div><a href="#"><img class="img1" src="./IMG/logohoss1.png" alt=""></a></div>
+            <div class="ele1"><a href="#" style="font-weight: 600;">&ensp;Quản lí bệnh viện</a></div>
+        </div>
+        <div class="flex1 icon">
+
+        </div>
+        <div class="flex1">
+            <div class="top-nav-search flex1">
+                <form>
+                    <input type="text" class="form-control" placeholder="Tìm kiếm...">
+                    <div class="icon"><a href="#" class="btn"><i class="fa-solid fa-magnifying-glass"></i></a></div>
+                </form>
+            </div>
+            <div class="flex1 icon">
+                <div><a href="#"><i class="fa-regular fa-envelope"></i></a></div>
+                <div><a href="#"><i class="fa-regular fa-bell"></i></a></div>
+                <div><a href="#"><i class="fa-solid fa-gear"></i></a></div>
+                <div><a href="#"><i class="fa-solid fa-arrow-right-from-bracket logout"></i></a></div>
+            </div>
+        </div>
+    </header>
+    <main class="flex2">
+        <div class="left" style="position: fixed;">
+            <div class="user-account">
+                <img class="user-photo rounded-circle" src="./IMG/img_account.png" alt="">
+                <div class="dropdown">
+                    <span>Chào mừng,</span>
+                    <a href="javascript:;" class="user-name dropdown-toggle" id="showId"><strong>Trịnh Gia
+                            Phúc</strong>&ensp;<i class="fa-solid fa-caret-down"></i></a>
+                    <ul class="dropdown-menu show" id="menuMini"
+                        style="will-change: transform; display: none; top: 100%; position: absolute; transform: translate3d(-33px, 42px, 0px); left: 0px;"
+                        x-placement="bottom-end">
+                        <li><a href="https://github.com/trinhgiaphuc24" target="_blank"><i
+                                    class="fa-solid fa-cat"></i>&ensp;Github</a></li>
+                        <li><a href="https://www.facebook.com/giaphuc0402" target="_blank"><i
+                                    class="fa-brands fa-facebook"></i>&ensp;Facebook</a></li>
+                        <li><a href="https://www.tiktok.com/@za.fuck" target="_blank"><i
+                                    class="fa-brands fa-tiktok"></i>&ensp;Tiktok</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCGTI3O4Yzpdcj61-hKG8EAA" target="_blank"><i
+                                    class="fa-brands fa-youtube"></i>&ensp;Youtube</a></li>
+                    </ul>
+                </div>
+                <hr>
+                <ul class="row-menu list-unstyled">
+                    <li class="col-4">
+                        <small>Công tác</small>
+                        <h6>BV 175</h6>
+                    </li>
+                    <li class="col-4">
+                        <small>Kinh nghiệm</small>
+                        <h6>20 năm</h6>
+                    </li>
+                    <li class="col-4">
+                        <small>Thành tựu</small>
+                        <h6>10. KPA</h6>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <ul class="menucols">
+                    <li><a href="Home.html"><i
+                                class="fa-solid fa-house"></i>&ensp;Trang chủ</a></li>
+                    <li><a href="Appointment.html"><i
+                                class="fa-solid fa-users"></i>&ensp;Tiếp đón</a></li>
+                    <li><a href="List_Apm.html"><i
+                                class="fa-solid fa-rectangle-list"></i>&ensp;Các cuộc hẹn</a></li>
+                    <li><a href="Departments.html"><i
+                                class="fa-solid fa-stethoscope"></i>&ensp;Bộ phận khoa</a></li>
+                    <li><a href="Patients.html" class="first-menu"><i
+                                class="fa-solid fa-hospital-user"></i>&ensp;Bệnh nhân</a></li>
+                    <li><a href="Doctors.html"><i
+                                class="fa-solid fa-user-doctor"></i>&ensp;Bác sĩ</a></li>
+                    <li><a href="Staff.html"><i
+                                class="fa-solid fa-chalkboard-user"></i>&ensp;Nhân viên</a></li>
+                    <li><a href="Profile.html"><i
+                                class="fa-solid fa-user"></i>&ensp;Hồ sơ</a></li>
+                    <li><a href="Contact.html"><i
+                                class="fa-solid fa-address-book"></i>&ensp;Liên hệ</a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="right flex2" id="content">
+            <div class="header-content flex2">
+                <div><a href="Home.html" style="color: #2e37a4;"><i
+                            class="fa-solid fa-house"></i>&ensp;Trang chủ&ensp;&ensp;</a>
+                </div>
+                <a href="javascript:;" style="color: #2e37a4;"><i class="fa-solid fa-caret-right"></i>&ensp;&ensp;<i
+                        class="fa-solid fa-hospital-user"></i>&ensp;Bệnh nhân</a>
+            </div>
+            <!-- List doctors -->
+            <div class="list-apm">
+                <div class="list-apm-main">
+
+                    <div class="list-apm-title">
+                        <div>
+                            <div class="doctor-table-blk">
+                                <h2>Danh sách bệnh nhân</h2>
+                                <div class="doctor-search-blk">
+                                    <div class="top-nav-search table-search-blk">
+                                        <form action="">
+                                            <input type="text" class="form-control" placeholder="Tìm kiếm...">
+                                            <div class="icon"><a href="#" class="btn"><i
+                                                        class="fa-solid fa-magnifying-glass"></i></a></div>
+                                        </form>
+                                    </div>
+                                    <div class="add-group">
+                                        <a href="javascript:;" class="btn btn-primary"><img
+                                                src="https://preclinic.dreamguystech.com/template/assets/img/icons/plus.svg"
+                                                alt=""></a>
+                                        <a href="javascript:;" class="btn btn-primary"><img
+                                                src="https://preclinic.dreamguystech.com/template/assets/img/icons/re-fresh.svg"
+                                                alt=""></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="list-apm-items">
+                        <table class="table">
+                            <thead class="thead-table-list">
+                                <tr>
+                                    <th class="sorting_asc">
+                                        <div class="form-check">
+                                            <input type="checkbox" class="form-check-input" id="form-check-input">
+                                        </div>
+                                    </th>
+                                    <th class="sorting_asc sorting_asc_7">
+                                        Tên
+                                    </th>
+                                    <th class="sorting_asc sorting_asc_8">
+                                        Khoa
+                                    </th>
+                                    <th class="sorting_asc sorting_asc_9">
+                                        Bệnh án
+                                    </th>
+                                    <th class="sorting_asc sorting_asc_10">
+                                        Bác sĩ điều trị
+                                    </th>
+                                    <th class="sorting_asc sorting_asc_11">
+                                        Di động
+                                    </th>
+                                    <th class="sorting_asc sorting_asc_12">
+                                        Email
+                                    </th>
+                                    <th class="sorting_asc sorting_asc_13">
+                                        Thời gian
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody class="tbody-table-list" id="tbody-table-list-2">
+                                <!--  -->
+                            </tbody>
+
+                        </table>
+                        <div class="last-body">
+                            <div class="last-body-1">
+                                <div class="last-body-1-1">Hiển thị từ 1 đến 8 mục</div>
+                            </div>
+                            <div class="last-body-2">
+                                <ul class="list-apm-items">
+                                    <li><a href="" style="color: #999;">Trước</a></li>
+                                    <li><a href="" style="color: white;">1</a></li>
+                                    <li><a href="" style="color: #999;">Sau</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </main>
+
+</body>
+
+</html>

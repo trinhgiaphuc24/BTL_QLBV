@@ -1,0 +1,29 @@
+Name
+Trịnh Gia Phúc
+Nguyễn Thị Mỹ Chi
+Phan Xuân Vinh
+Trần Huyền Ngọc
+Nguyễn Văn Dũng
+Lê Thị Huỳnh Cúc
+Đỗ Ngọc Minh
+Trương Hồng Bích
+
+Department
+Nha sĩ
+Sản khoa
+Tim mạch
+Tiêu hóa
+Thần kinh
+Mắt
+Tai mũi họng
+Răng hàm mặt
+
+Address
+43 Cộng Hòa, Phường 4, Quận Tân Bình, TPHCM
+597 Quang Trung, Phường 11, Quận Gò Vấp, TPHCM
+28 Trường Chinh, Phường 3, Quận Tân Bình, TPHCM
+96 Phạm Văn Đồng, Phường 3, Quận Gò Vấp, TPHCM
+22 Lý Chánh Thắng, Phường 3, Quận Tân Bình, TPHCM
+35 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, TPHCM
+23 Hoàng Văn Thụ, Phường 4, Quận Tân Bình, TPHCM
+67 Nguyễn Văn Nghi, Phường 11, Quận Gò Vấp, TPHCM

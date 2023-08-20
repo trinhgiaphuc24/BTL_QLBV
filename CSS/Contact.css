@@ -1,0 +1,107 @@
+.items-contact {
+  width: 100%;
+  margin-bottom: 25px;
+  background-color: white;
+  border: 1.5px solid silver;
+  padding: 0.8rem;
+  border-radius: 0.8rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.items-contact-main {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding-left: 25px;
+  padding-right: 25px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.items-contact-title {
+  margin-bottom: 10px;
+}
+
+.items-contact-title h2 {
+  color: #2e37a4;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding-bottom: 0.8rem;
+  margin-top: 10px;
+}
+
+.items-contact-items {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.items-contact-items-1 {
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.items-contact-items-2 {
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.items-contact-items-img {
+  width: 25%;
+}
+.items-contact-items-img img {
+  width: 100%;
+  margin: 0 1rem;
+}
+.items-contact-items-name {
+  width: 75%;
+  padding: 1.5rem 3rem;
+  text-align: center;
+}
+.items-contact-items-name h2 {
+  font-weight: 600;
+  color: #2e37a4;
+  font-size: 37px;
+}
+.items-contact-items-name h3 {
+  margin: 10px 0;
+}
+.items-contact-items-fact {
+  width: 100%;
+  padding: 10px;
+}
+.items-contact-items-fact td {
+  min-width: 35px;
+  font-size: 20px;
+}
+.items-contact-items-fact a {
+  color: #2e37a4;
+}
+.items-contact-items-icon {
+  width: 100%;
+  padding: 0 3rem;
+}
+.items-contact-items-icon a {
+  color: white;
+  background: rgba(51, 52, 72, 0.05);
+  border-radius: 12px;
+  height: 70px;
+  margin-right: 20px;
+  width: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.items-contact-items-icon img {
+  width: 40px;
+}
+.items-contact-items-icon-mini {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.items-contact-items-2 iframe {
+   width: 100%;
+   height: 500px;
+}
