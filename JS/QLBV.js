@@ -1,5 +1,5 @@
 $(function () {
-  //Fixed header and gototop
+    //Fixed gototop
   $(window).scroll(function () {
     if ($(this).scrollTop() >= 100) {
       $("#gotoTop").show("slow");

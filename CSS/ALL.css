@@ -2,8 +2,9 @@
   box-sizing: border-box;
 }
 body {
+  width: 100vw;
   line-height: 1.8;
-  overflow-y: auto;
+  overflow-y:scroll;
   color: #5a5a5a;
   margin: 0;
   padding-top: 50px;
